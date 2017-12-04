@@ -1,7 +1,7 @@
 # Checker-Game
 CS2ME3 Project
 
-This is an american checker board-game with GUI written in Java with Swing.
+This is an american checker board-game with an intuitive GUI written in Java with Swing.
 
 ## Tools
 Eclipse IDE for Java Developers
