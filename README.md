@@ -25,6 +25,8 @@ Clear: clear the board (either standard or custom). Cannot be used once a game i
 
 AI's colour: pick a color for AI (either red or yellow) for a game against AI. If a color is picked, AI will take control of that color for either standard or custom game. If "No" is picked, game will be played by two players instead.
 
+Legal Move: legal moves of a piece are displayed as green square(s) when the piece is selected.
+
 ## Things To Be Done
 1. Count down timer (it is only a place holder at the moment).
 2. Quit should only quit the current game instead of the program.
