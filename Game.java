@@ -1,7 +1,7 @@
 //This class will instantiate game body,
 //Only 1 instance is allowed
 //Will contain array of game-progress for save and load
-//Runs game
+//Runs game.
 
 public class Game {
 
